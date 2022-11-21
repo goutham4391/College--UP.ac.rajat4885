@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.up.ac.za	TRUE	/	FALSE	1999999999	PHPSESSID	5hmc4ta1j4drijjpulfe75q8t1
+www.up.ac.za	TRUE	/	FALSE	1999999999	AWSALB	B3Rm7VrG6b+dQQJ7Tv1jKFVTQU5QtWNtAjTpOYMSJeJUAZJ4epAb5HPYzPef3t//p2Jusc62e86C5XdVg5DP6X+TBIGt96Na4mgJsrXBo5F5Twhu14CgoxMB0O3r
+www.up.ac.za	TRUE	/	FALSE	1999999999	AWSALBCORS	B3Rm7VrG6b+dQQJ7Tv1jKFVTQU5QtWNtAjTpOYMSJeJUAZJ4epAb5HPYzPef3t//p2Jusc62e86C5XdVg5DP6X+TBIGt96Na4mgJsrXBo5F5Twhu14CgoxMB0O3r
+www.up.ac.za	TRUE	/	FALSE	1999999999	SameSite	None
+www.up.ac.za	TRUE	/	FALSE	1999999999	zpSiteId	deleted
+
